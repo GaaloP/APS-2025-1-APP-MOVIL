@@ -339,7 +339,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
       ),
       child: AppBar(
         title: Text(
-          'Segimiento de mi paquete',
+          'Seguimiento de mi paquete',
           style: TextStyle(fontSize: 17 , fontWeight: FontWeight.bold),
         ),
         leading: IconButton(
